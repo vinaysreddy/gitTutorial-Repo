@@ -1,3 +1,3 @@
 # Intro to tutorial
 
-CReating the new file
+Created the new file
